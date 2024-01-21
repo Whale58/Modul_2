@@ -10,6 +10,9 @@ namespace Modul_2.ConsoleApp
 
             Console.WriteLine(MyName);
 
+            Console.WriteLine("Привет Мир!");
+            Console.WriteLine("Мне 25");
+
             Console.ReadKey();
         }
     }
