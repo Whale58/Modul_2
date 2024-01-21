@@ -6,8 +6,7 @@ namespace Modul_2.ConsoleApp
     {
         static void Main(string[] args)
         {
-            String MyName;
-            MyName = "Виталий";
+            String MyName = "Виталий";
 
             Console.WriteLine(MyName);
 
