@@ -1,0 +1,11 @@
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\bin\Debug\netcoreapp2.0\Modul_2.ConsoleApp.deps.json
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\bin\Debug\netcoreapp2.0\Modul_2.ConsoleApp.runtimeconfig.json
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\bin\Debug\netcoreapp2.0\Modul_2.ConsoleApp.runtimeconfig.dev.json
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\bin\Debug\netcoreapp2.0\Modul_2.ConsoleApp.dll
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\bin\Debug\netcoreapp2.0\Modul_2.ConsoleApp.pdb
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.csproj.AssemblyReference.cache
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.AssemblyInfoInputs.cache
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.AssemblyInfo.cs
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.dll
+D:\Learn\Source\Repository\Modul_2\Modul_2.ConsoleApp\Modul_2.ConsoleApp\obj\Debug\netcoreapp2.0\Modul_2.ConsoleApp.pdb

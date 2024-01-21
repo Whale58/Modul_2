@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgazKAqiyt+omZYrox4HRvsua5AF5VN6FdDRqTXoB66JNwazwSx0W3j12OE6DS9zAsoc9YOAEiU5XwHFR0XMEA==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\Source\\Repository\\Modul_2\\Modul_2.ConsoleApp\\Modul_2.ConsoleApp\\Modul_2.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XXX\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\XXX\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
